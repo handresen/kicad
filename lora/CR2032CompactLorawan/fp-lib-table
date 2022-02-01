@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LoraTrigger)(type KiCad)(uri "C:/Users/ha/Google Drive/Dev/pcb/kicad/LoraBme/LoraTriggerBAREBME")(options "")(descr "")(disabled))
+  (lib (name halib)(type KiCad)(uri ${KIPRJMOD}/halib.pretty)(options "")(descr ""))
+  (lib (name LoraTriggerBareBme)(type KiCad)(uri "C:/Users/ha/Google Drive/Dev/pcb/kicad/LoraBme/LoraTriggerBareBme")(options "")(descr ""))
+)

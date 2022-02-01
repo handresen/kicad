@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name HASymbols)(type Legacy)(uri ${KIPRJMOD}/HASymbols.lib)(options "")(descr ""))
+  (lib (name Sensor)(type Legacy)(uri ${KIPRJMOD}/Sensor.lib)(options "")(descr ""))
+  (lib (name LoraTrigger-rescue)(type Legacy)(uri ${KIPRJMOD}/LoraTrigger-rescue.lib)(options "")(descr ""))
+)

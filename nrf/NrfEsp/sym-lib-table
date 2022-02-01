@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "HASymbols")(type "KiCad")(uri "${KIPRJMOD}/HASymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensor")(type "Legacy")(uri "${KIPRJMOD}/Sensor.lib")(options "")(descr "")(disabled))
+  (lib (name "LoraTrigger-rescue")(type "Legacy")(uri "${KIPRJMOD}/LoraTrigger-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "Atmega")(type "Legacy")(uri "${KIPRJMOD}/MCU_Microchip_ATmega.lib")(options "")(descr "")(disabled))
+  (lib (name "Fanstel")(type "Legacy")(uri "${KIPRJMOD}/Fanstel-modules.lib")(options "")(descr ""))
+)

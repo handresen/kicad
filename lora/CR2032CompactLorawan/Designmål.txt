@@ -1,0 +1,9 @@
+- CR123 terminaler på langs av PCB
+- Bedre BME pads
+- Mindre broer til power/jord
+- Bedre R pads
+- Bedre labels
+- Ekstra conn (2 through) for ekst kobling m/ekst pullup
+- Bedre cap pads for MCU
+
+
